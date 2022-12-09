@@ -1,0 +1,6 @@
+15.554.736, Cecilia Josefina Alameda González, calameda@gmail.com, 20/07/2001, F,
+6.234.690, Luis Manuel Hernández Pérez, lhernandez@hotmail.com, 18/05/1969, M,
+25.774.910, Carlos Raúl Villanueva , carlosvilla@gmail.com, 22/10/2002, M,
+13.102.098, María Rosa Piña Gutierrez, mpina@gmail.com, 20/07/1992, F,
+8.231.447, Nélida Luisa Pardo León, npleon@ucab.edu.ve, 20/07/1972, F,
+17.151.767, Rosa Martina Gomez Salazar, mgomez@gmail.com, 20/07/2007, F,
